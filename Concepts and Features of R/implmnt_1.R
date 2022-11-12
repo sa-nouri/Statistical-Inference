@@ -1,5 +1,3 @@
-# Statistical Inference ---- Lab(1)
-# Salar Nouri ----- 810194422
 # =================================
 ## =========   a) Variable and Types
 x = 3 
@@ -225,14 +223,13 @@ df_1
 
 # problem (39)
 
-setwd("E:/Salar/Uni/SI/Lab/Lab#1/R_Code")
+setwd("Concepts and Features of R")
 write.csv(df_1, file = "df_1.csv", row.names = FALSE)
 
 # Problem (40)
 
 df_2 <- read.csv("df_1.csv")
 df_2
-
 
 ## =============================== ##
 
