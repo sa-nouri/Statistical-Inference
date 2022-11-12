@@ -1,12 +1,7 @@
-## ================================ 
-
-## Statistical Inference ----- Lab (4)
-## Salar Nouri ----- 810194422 
-
 # =========================
 
 
-setwd("E:/Bachelor of Science/8th Semester/Statistical Inference/Lab/Lab#4/Codes")
+setwd("/Bootstrapping and Regression")
 
 # a) Bootstrapping ----------------------
 
