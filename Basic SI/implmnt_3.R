@@ -1,8 +1,6 @@
-## Salar Nouri ----- 810194422 ##
-## R-Lab (3)
 #======================================
 
-setwd("E:/Bachelor of Science/8th Semester/Statistical Inference/Lab/Lab#3/Codes")
+setwd("Basic SI")
 library("ggplot2")
 
 ####################################
