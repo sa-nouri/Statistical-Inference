@@ -55,7 +55,5 @@ Many datasets in statistical researches are loaded into the computers using a fi
     - In some cases the data extracted from a data frame might be converted automatically to a different data structure. Find out the cases, and find out how to convert between data frame and vectors bidirectionally.
     - Sometimes factors could behave in a way that you are not expected. The easy way is to convert them to vectors; but it is usually not a good idea.
     - how coercions occur in R
-    - R language operators: There are cases that you can use operators instead of
-functions.
-    - Using loops in R is as bad as using “goto” in C. There are many functions such as apply
-family, aggregation family, etc. to avoid using loops
+    - R language operators: There are cases that you can use operators instead of functions.
+    - Using loops in R is as bad as using “goto” in C. There are many functions such as apply family, aggregation family, etc. to avoid using loops.
