@@ -1,5 +1,3 @@
-# Statistical Inference ---- Lab( 2 )
-# Salar Nouri ----- 810194422
 # =================================
 
 ## =========   a) Simple Plots
