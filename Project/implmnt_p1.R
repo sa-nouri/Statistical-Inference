@@ -24,7 +24,7 @@ library(ppcor)
 
 ## ======== dataset Loader
 
-setwd("C:/Users/Salar/Desktop/phase1_project_SI/Codes")
+setwd("Codes")
 House_Sales_Info<- read.csv("House Sales.csv")
 
 ## ======== Question (0) ----- Missing Values

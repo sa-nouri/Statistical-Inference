@@ -14,7 +14,7 @@ library(PRROC)
 install.packages('QuantPsyc')
 library(QuantPsyc)
 
-House_Data <- read.csv("E:/Salar/Uni/SI/project/House Sales.csv")
+House_Data <- read.csv("House Sales.csv")
 
 
 # Problem (1) ==========
